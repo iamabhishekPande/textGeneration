@@ -1,0 +1,7 @@
+langchain
+langchain_community
+transformers
+
+sentence-transformers
+flask 
+diffusers
